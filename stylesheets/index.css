@@ -1,0 +1,33 @@
+h1 {
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 80px;
+    margin: 0 auto;
+    width: 500px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.potato {
+    /* padding: 10px 20px;
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 80px;
+    border: 2px solid black; */
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 50px;
+    color: black;
+    width: 550px;
+    height: 94px;
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: orange;
+    background-size: cover;
+    background-position-y: 20%;
+}
+
+div {
+    display: block;
+}
+
+
